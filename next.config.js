@@ -1,6 +1,6 @@
 module.exports ={
   env: {
-      backendURL: 'http://localhost:4000',
+      backendURL: 'https://ancient-escarpment-44959.herokuapp.com/',
       frontendURL: 'http://localhost:3000/'
 
   }
